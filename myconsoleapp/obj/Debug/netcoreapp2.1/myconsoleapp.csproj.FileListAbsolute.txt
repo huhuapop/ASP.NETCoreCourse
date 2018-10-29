@@ -1,0 +1,11 @@
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\bin\Debug\netcoreapp2.1\myconsoleapp.deps.json
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\bin\Debug\netcoreapp2.1\myconsoleapp.runtimeconfig.json
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\bin\Debug\netcoreapp2.1\myconsoleapp.runtimeconfig.dev.json
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\bin\Debug\netcoreapp2.1\myconsoleapp.dll
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\bin\Debug\netcoreapp2.1\myconsoleapp.pdb
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\obj\Debug\netcoreapp2.1\myconsoleapp.csprojAssemblyReference.cache
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\obj\Debug\netcoreapp2.1\myconsoleapp.csproj.CoreCompileInputs.cache
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\obj\Debug\netcoreapp2.1\myconsoleapp.AssemblyInfoInputs.cache
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\obj\Debug\netcoreapp2.1\myconsoleapp.AssemblyInfo.cs
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\obj\Debug\netcoreapp2.1\myconsoleapp.dll
+C:\web\visual\ASP.NETCoreCourse\myconsoleapp\obj\Debug\netcoreapp2.1\myconsoleapp.pdb
